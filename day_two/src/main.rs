@@ -23,9 +23,7 @@ fn main() {
 fn solve_for_pt_1(input: &str, predicate: Predicate) -> u32 {
     let lines = input.lines().filter(|l| !l.trim().is_empty());
     let games = lines.map(|l| Game::try_from(l.trim()).unwrap()).collect();
-    println!("Games: {:?}", games);
     let games = find_possible_games(games, predicate);
-    println!("Games possible: {:?}", games);
     games.iter().fold(0, |acc, game| acc + game.id)
 }
 
