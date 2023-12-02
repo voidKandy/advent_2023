@@ -1,9 +1,0 @@
-/Users/ezrafreeman/Documents/GitHub/advent_2023/day_two/target/debug/deps/anstyle_parse-8ce26d3002b4c5be.rmeta: /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/lib.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/params.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/mod.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/definitions.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/table.rs
-
-/Users/ezrafreeman/Documents/GitHub/advent_2023/day_two/target/debug/deps/anstyle_parse-8ce26d3002b4c5be.d: /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/lib.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/params.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/mod.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/definitions.rs /Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/table.rs
-
-/Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/lib.rs:
-/Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/params.rs:
-/Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/mod.rs:
-/Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/definitions.rs:
-/Users/ezrafreeman/.cargo/registry/src/index.crates.io-6f17d22bba15001f/anstyle-parse-0.2.2/src/state/table.rs:
